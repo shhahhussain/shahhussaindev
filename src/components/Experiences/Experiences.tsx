@@ -16,7 +16,7 @@ const Experiences: React.FC = () => {
               height={100}
               width={100}
               className={styles.image}
-              src="/images/Antonx.jpeg"
+              src="/shahhussaindev/images/Antonx.jpeg"
               alt="Antonx"
             ></Image>
             <div className={styles.connector} />
@@ -30,7 +30,7 @@ const Experiences: React.FC = () => {
                     className={styles.mobileImage}
                     height={100}
                     width={100}
-                    src="/images/Antonx.jpeg"
+                    src="/shahhussaindev/images/Antonx.jpeg"
                     alt="Antonx"
                   ></Image>
                   <p className={styles.time}>Jan 2025 - Present</p>
@@ -92,7 +92,7 @@ const Experiences: React.FC = () => {
               className={styles.image}
               height={100}
               width={100}
-              src="/images/shadiyana.jpeg"
+              src="/shahhussaindev/images/shadiyana.jpeg"
               alt="Shadiyana"
             />
             <div className={styles.dotPrimary}>
@@ -104,7 +104,7 @@ const Experiences: React.FC = () => {
                 className={styles.mobileImage}
                 height={100}
                 width={100}
-                src="/images/shadiyana.jpeg"
+                src="/shahhussaindev/images/shadiyana.jpeg"
                 alt="Shadiyana"
               />
               <p className={styles.time}>Jul 2023 - Aug 2023</p>
