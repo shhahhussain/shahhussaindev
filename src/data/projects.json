@@ -10,7 +10,7 @@
     "description": "A food-tech web application for the UK, similar to UberEats. It enables seamless web ordering and provides built-in marketing tools, analytics, and full menu and order management for restaurants and admin users. Developed the web application using React.js, Redux, and Node.js.",
     "github": "",
     "website": "https://weborders.gethalalnow.com/",
-    "imgSrc": "/shahhussaindev/images/hmc.png",
+    "imgSrc": "/images/hmc.png",
     "type": "Food-Tech Web Application"
   },
   {
@@ -23,7 +23,7 @@
     "description": "Developed and managed the real-time chat service for Pakistan Startup Connect, an initiative by the Ministry of IT&T, Government of Pakistan. The system handled 50,000+ daily messages and 10,000+ concurrent users, enabling seamless communication between investors nationwide.",
     "github": "",
     "website": "https://startupconnect.pk/",
-    "imgSrc": "/shahhussaindev/images/ignite.png",
+    "imgSrc": "/images/ignite.png",
     "type": "Pakistan Startup Connect"
   },
   {
@@ -37,7 +37,7 @@
     "description": "It offers real-time inventory management, multi-location support, staff management, detailed sales reporting, and seamless order processing. Developed using React.js for the frontend, Node.js and Laravel for the backend, and Docker for containerized deployment",
     "github": "",
     "website": "https://posfrontend.antonx.com/",
-    "imgSrc": "/shahhussaindev/images/pos.png",
+    "imgSrc": "/images/pos.png",
     "type": " Pos System " 
   },
   {
@@ -52,7 +52,7 @@
     "description": "Full-stack social media platform delivering real-time friend discovery and live location tracking. Engineered a Node.js/Express backend, built a Next.js admin panel, integrated Grafana dashboards for analytics, and Dockerized the entire stack for scalable deployment.",
     "github": "",
     "website": "https://play.google.com/store/apps/details?id=com.meetnoca.app",
-    "imgSrc": "/shahhussaindev/images/noca.png",
+    "imgSrc": "/images/noca.png",
     "type": "Social Media Platform" 
   },
   {
@@ -65,7 +65,7 @@
     "description": "Responsive event management platform built with React.js, Redux, and Ant Design, featuring device-optimized pages, improved user experience and collaborative GitHub-driven feature delivery.",
     "github": "",
     "website": "https://www.shadiyana.pk/",
-    "imgSrc": "/shahhussaindev/images/shadiyanaa.png",
+    "imgSrc": "/images/shadiyanaa.png",
     "type": "Event Management Platform" 
   },
   {
@@ -78,7 +78,7 @@
     "description": "Responsive event management platform built with React.js, Redux, and Ant Design, featuring device-optimized pages, improved user experience and collaborative GitHub-driven feature delivery",
     "github": "",
     "website": "https://adssottawa.com/",
-    "imgSrc": "/shahhussaindev/images/adss.png",
+    "imgSrc": "/images/adss.png",
     "type": "Canadian Immigration Platform" 
   }
 ]
