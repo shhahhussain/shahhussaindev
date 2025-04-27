@@ -10,16 +10,16 @@ interface ThemeContextValue {
 
 const DARK_THEME_CONTEXT_VALUE: ThemeContextValue = {
   setTheme: () => {},
-  logoUrl: "/shahhussaindev/images/logo.png",
-  aboutUrl: "/shahhussaindev/images/shhahhussain.jpeg",
-  aboutUrlSmall: "/shahhussaindev/images/shhahhussain.jpeg",
+  logoUrl: "/images/logo.png",
+  aboutUrl: "/images/shhahhussain.jpeg",
+  aboutUrlSmall: "/images/shhahhussain.jpeg",
 };
 
 const LIGHT_THEME_CONTEXT_VALUE: ThemeContextValue = {
   setTheme: () => {},
-  logoUrl: "/shahhussaindev/images/logo-light.png",
-  aboutUrl: "/shahhussaindev/images/shhahhussain.jpeg",
-  aboutUrlSmall: "/shahhussaindev/images/shhahhussain.jpeg",
+  logoUrl: "/images/logo-light.png",
+  aboutUrl: "/images/shhahhussain.jpeg",
+  aboutUrlSmall: "/images/shhahhussain.jpeg",
 };
 
 
