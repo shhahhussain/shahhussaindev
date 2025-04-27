@@ -31,7 +31,7 @@ const COLLEGES = [
         ],
         start: 2019,
         end: 2023,
-        imgSrc: "/images/uet.jpg",
+        imgSrc: "/shahhussaindev/images/uet.jpg",
     },
 ];
 
