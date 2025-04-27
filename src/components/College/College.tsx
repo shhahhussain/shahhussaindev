@@ -9,7 +9,7 @@ export interface IProps {
   courses: string[];
   start: number;
   end: number;
-  gpa: string;
+  gpa?: string;
   imgSrc: string;
   side: "left" | "right";
 }

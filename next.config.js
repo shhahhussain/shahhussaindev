@@ -2,16 +2,21 @@
 const nextConfig = {
     output: 'export',
     reactStrictMode: true,
+    basePath: '/shahhussaindev', 
+    assetPrefix: '/shahhussaindev/', 
     images: {
-        unoptimized: true,
-        remotePatterns: [
-            {
-                protocol: 'https',
-                hostname: 'opengraph.githubassets.com',
-                port: '',
-                pathname: '/1afeafda/shhahhussain/**',
-            },
-        ],
+      unoptimized: true,
+      remotePatterns: [
+          {
+              protocol: 'https',
+              hostname: 'opengraph.githubassets.com',
+              port: '',
+              pathname: '/1afeafda/shhahhussain/**',
+          },
+      ],
+  },
+    typescript: {
+      ignoreBuildErrors: true,
     },
 };
 

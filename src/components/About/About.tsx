@@ -16,8 +16,8 @@ const About = ({ ...delegated }: Props) => {
       <div className={styles.aboutme}>
         <SectionTitle side={"left"}>About Me</SectionTitle>
         <p className={styles.description}>
-          Hey there, I'm Shah Hussain, a full-stack engineer and top GitHub
-          contributor{' '}
+          Hey there, I am Shah Hussain, a full-stack engineer and top GitHub
+          contributor{" "}
           <a
             href="https://committers.top/pakistan_private"
             target="_blank"
@@ -29,16 +29,18 @@ const About = ({ ...delegated }: Props) => {
               alt="committers.top badge"
               style={{ display: "inline-block", height: "20px" }}
             />
-          </a>, based in Pakistan, creating user-centric digital experiences.
-          I build seamless, intuitive systems for frontend and backend.
+          </a>
+          , based in Pakistan, creating user-centric digital experiences. I
+          build seamless, intuitive systems for frontend and backend&apos;s.
           Whether designing sleek UIs or developing robust web apps, I aim to
           make technology more accessible for users. Alongside development, I
           have DevOps expertise in optimizing deployment pipelines, managing
           cloud infrastructures, and streamlining workflows. From scalable web
-          apps to real-time systems, I ensure solutions are efficient,
-          reliable, and user-friendly. I love solving complex problems and
-          keeping every part of the system in harmony. If you’re looking to
-          collaborate on backend development, frontend development or DevOps, feel free to reach out!
+          apps to real-time systems, I ensure solutions are efficient, reliable,
+          and user-friendly. I love solving complex problems and keeping every
+          part of the system in harmony. If you are looking to collaborate on
+          backend development, frontend development or DevOps, feel free to
+          reach out!
         </p>
       </div>
       <picture className={styles.picture}>
