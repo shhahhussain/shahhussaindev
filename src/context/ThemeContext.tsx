@@ -11,15 +11,15 @@ interface ThemeContextValue {
 const DARK_THEME_CONTEXT_VALUE: ThemeContextValue = {
   setTheme: () => {},
   logoUrl: "/images/logo.png",
-  aboutUrl: "/images/shhahhussain.jpeg",
-  aboutUrlSmall: "/images/shhahhussain.jpeg",
+  aboutUrl: "/images/shhahhussain.png",
+  aboutUrlSmall: "/images/shhahhussain.png",
 };
 
 const LIGHT_THEME_CONTEXT_VALUE: ThemeContextValue = {
   setTheme: () => {},
   logoUrl: "/images/logo-light.png",
-  aboutUrl: "/images/shhahhussain.jpeg",
-  aboutUrlSmall: "/images/shhahhussain.jpeg",
+  aboutUrl: "/images/shhahhussain.png",
+  aboutUrlSmall: "/images/shhahhussain.png",
 };
 
 

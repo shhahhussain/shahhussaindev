@@ -1,5 +1,18 @@
 [
   {
+    "name": "BRT Lara",
+    "techs": [
+      "React.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "description": "A web application for Peshawar BRT, featuring a responsive design, multi-language support (Urdu & English), and optimized user experience. Built with React.js, TypeScript, and Tailwind CSS for a fast and scalable solution.",
+    "github": "",
+    "website": "https://buslara.shhahhussain.com/",
+    "imgSrc": "/images/brt-lara.png",
+    "type": "Web Application (Personal Project)"
+  },
+  {
     "name": "Halal Now",
     "techs": [
       "React.js",
